@@ -8,7 +8,7 @@ Estos editores ofrecen funciones como resaltado de sintaxis, autocompletado, dep
 ---
 
 ## Ejemplos de editores populares
-
+  
 ### 1. Visual Studio Code (VS Code)
 - Editor gratuito y muy popular creado por Microsoft. 
 - Soporta múltiples lenguajes de programación. 
@@ -40,6 +40,21 @@ Estos editores ofrecen funciones como resaltado de sintaxis, autocompletado, dep
 - Gratuito y de código abierto.
 - Compatible con múltiples lenguajes, incluyendo HTML.
 - Ideal para equipos con pocos recursos o cuando se busca un editor sencillo.
+
+### Lab 2. Agregar parrafo
+- 🧩 1. Visual Studio Code (VS Code) 🏆 (recomendada)
+
+- M-- https://code.visualstudio.com
+
+- Es el editor más usado para HTML, CSS y JavaScript.
+
+- Puedes instalar extensiones como:
+
+- Live Server → te permite ver los cambios del HTML en tiempo real.
+
+- Prettier → ordena el código automáticamente.
+
+- HTML CSS Support → te autocompleta etiquetas
 
 
 ---
