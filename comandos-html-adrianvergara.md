@@ -31,6 +31,16 @@ Ejemplos de etiquetas básicas
 
 <p>Este es un párrafo en HTML.</p>
 
+4. Formulario 
+<form action="/enviar" method="post">
+  <label for="nombre">Nombre:</label>
+  <input type="text" id="nombre" name="nombre">
+ 
+  <label for="email">Correo:</label>
+  <input type="email" id="email" name="email">
+
+  <input type="submit" value="Enviar">
+</form>
 
 
 
