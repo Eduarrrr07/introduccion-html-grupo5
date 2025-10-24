@@ -14,5 +14,14 @@
   </body>
 </html>
 
+<footer style="background-color:#f2f2f2; padding:20px; text-align:center;">
+  <p>&copy; 2025 MiSitioWeb. Todos los derechos reservados.</p>
+  <p>
+    <a href="/privacidad">Política de Privacidad</a> |
+    <a href="/terminos">Términos y Condiciones</a> |
+    <a href="/contacto">Contacto</a>
+  </p>
+</footer>
+
 
 
